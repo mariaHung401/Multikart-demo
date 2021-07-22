@@ -1,0 +1,11 @@
+{
+    "firebase" : {
+        "apiKey": "AIzaSyAIp345mmzF0JvARAFgOFDQ0WmuMrTDKGk",
+        "authDomain": "fir-store-80faf.firebaseapp.com",
+        "projectId": "fir-store-80faf",
+        "storageBucket": "fir-store-80faf.appspot.com",
+        "messagingSenderId": "700914363109",
+        "appId": "1:700914363109:web:34ed6849d704f3ab76020c",
+        "measurementId": "G-2FQYWW0LGB"
+    }
+}
